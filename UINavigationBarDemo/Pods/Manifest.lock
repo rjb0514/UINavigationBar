@@ -1,0 +1,15 @@
+PODS:
+  - Masonry (1.0.2)
+  - MLTransition (2.1.3)
+
+DEPENDENCIES:
+  - Masonry (~> 1.0.0)
+  - MLTransition (~> 2.1.2)
+
+SPEC CHECKSUMS:
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MLTransition: 8ebe393aedfb61507202085a5bb16c7b17363e43
+
+PODFILE CHECKSUM: e012baed6cdea916d88597366b51a65542dd6a6b
+
+COCOAPODS: 1.2.1
